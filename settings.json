@@ -18,5 +18,7 @@
   "workbench.editor.closeOnFileDelete": true,
   "window.titleBarStyle": "custom",
   "update.mode": "none",
-  "telemetry.telemetryLevel": "off"
+  "telemetry.telemetryLevel": "off",
+  "latex-workshop.latex.autoBuild.run": "never",
+  "latex-workshop.view.pdf.viewer": "tab"
 }
